@@ -1,5 +1,3 @@
-package duke;
-
 /**
  * Represent a class Task that stores some information to be used with a Chatbot
  * CS2103T

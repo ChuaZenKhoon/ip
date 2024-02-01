@@ -1,4 +1,4 @@
-package duke;
+import java.util.ArrayList;
 
 /**
  * Represent the class that deals with interactions with the user
