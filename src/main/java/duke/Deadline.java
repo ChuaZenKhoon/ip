@@ -1,5 +1,8 @@
+package duke;
+
 import java.time.LocalDateTime;
 import java.time.format.DateTimeFormatter;
+
 
 /**
  * Represent a subclass that stores information and 1 timing/date to be used with a Chatbot
